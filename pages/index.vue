@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        remlexApp
+        RemlexApp
       </h1>
       <h2 class="subtitle">
         Remlex Technologies Web
