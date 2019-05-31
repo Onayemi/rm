@@ -1,0 +1,25 @@
+{
+  "name": "remlexapp",
+  "version": "1.0.0",
+  "description": "Remlex Technologies Web",
+  "author": "Onayemi Samuel",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^0.1.2",
+    "css-loader": "^2.1.1",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.32.2"
+  }
+}
